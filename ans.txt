@@ -1,1 +1,0 @@
-Enter Employee Type : Enter Salary  : Enter OtHrs : Net Salary is13400
